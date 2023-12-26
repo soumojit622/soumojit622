@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Soumojit Banerjee</b>, a third year <b>Computer Science</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Techno INdia University</b>, West Bengal</a>.
+    This is me <b>Soumojit Banerjee</b>, a third year <b>Computer Science</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Techno India University</b>, West Bengal</a>.
     An intermediate <b>Full-Stack Software Developer and </b>&nbsp; <b>a Programmer</b>
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
