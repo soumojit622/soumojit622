@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     This is me <b>Soumojit Banerjee</b>, a third year <b>Computer Science</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Techno India University</b>, West Bengal</a>.
-    An intermediate <b>Frontend Developer and </b>&nbsp; <b>a Programmer</b>
+    An intermediate <b>Frontend Developer and </b>&nbsp;<b>a Programmer</b>
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
