@@ -8,7 +8,9 @@
     This is me <b>Soumojit Banerjee</b>, a third year <b>Computer Science</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Techno India University</b>, West Bengal</a>.
     An intermediate <b>Frontend Developer and a Programmer</b>
   <br>
-  <b><I>"“---An investment in knowledge pays the best interest---”"</i></b>
+  > **_"An investment in knowledge pays the best interest."_**
+>
+> *— Benjamin Franklin*
 </p>
 <!--
 <h3>Little facts about me 🧑</h3>
