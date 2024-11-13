@@ -4,7 +4,9 @@
   </picture>
 </p>
 
-<h1 align="center">Hi 👋, I'm Soumojit Banerjee</h1>
+<h1 align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Frontend+Developer;DS%20|%20Web+Development%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+</h1>
 <h3 align="center">Passionate CSE Student 💻 | Exploring the Boundless World of Technology 🌐</h3>
 
 <p align="center"> 
