@@ -45,7 +45,7 @@
 
 ---
 
-<!--Dynamic Quote card updated everyday at 12 PM--> 
+<!--Dynamic Quote card updated everyday at 12 PM-->
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
@@ -80,56 +80,66 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> 
+  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-160" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/C.svg" alt="C programming language" width="50" height="50"/> 
   </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> 
+  <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/CPP.svg" alt="C++ programming language" width="50" height="50"/> 
   </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Python-Light.svg" alt="Python programming language" width="50" height="50"/> 
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/HTML.svg" alt="HTML" width="50" height="50"/> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/CSS.svg" alt="CSS" width="50" height="50"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/JavaScript.svg" alt="JavaScript" width="50" height="50"/> 
   </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap framework" width="50" height="50"/> 
   </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> 
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" width="50" height="50"/> 
   </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> 
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Git.svg" alt="Git version control" width="50" height="50"/> 
   </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> 
+  <a href="https://github.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Github-Light.svg" alt="GitHub" width="50" height="50"/> 
   </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/> 
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/MySQL-Light.svg" alt="MySQL database" width="50" height="50"/> 
   </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/React-Light.svg" alt="react" width="50" height="50"/> 
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Figma-Light.svg" alt="Figma design tool" width="50" height="50"/> 
   </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/NextJS-Light.svg" alt="react" width="50" height="50"/> 
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/VSCode-Light.svg" alt="Visual Studio Code" width="50" height="50"/> 
   </a> 
-  
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/React-Light.svg" alt="React library" width="50" height="50"/> 
+  </a> 
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/NextJS-Light.svg" alt="Next.js framework" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TypeScript.svg" alt="TypeScript language" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/MongoDB.svg" alt="MongoDB database" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.appwrite.io" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Appwrite.svg" alt="Appwrite backend service" width="50" height="50"/> 
+  </a> 
 </p>
 
+
 ---
-<!--Contact Section--> 
+
+<!--Contact Section-->
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
@@ -150,7 +160,7 @@
 </a>
 </div>
 
-<!--Footer--> 
+<!--Footer-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
