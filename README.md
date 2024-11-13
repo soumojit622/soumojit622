@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I%27m+Soumojit+Banerjee&center=true&width=500&height=50"></a>
+<a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I%27m+Soumojit+Banerjee;Computer+Science+Undergraduate;DS%20|%20Web+Development%20Enthusiast&center=true&width=500&height=50"></a>
 </h1>
 <h3 align="center">Passionate CSE Student 💻 | Exploring the Boundless World of Technology 🌐</h3>
 
