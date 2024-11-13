@@ -46,7 +46,7 @@
 ---
 
 <!--Dynamic Quote card updated everyday at 12 PM-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">🌟 Thought Of The Day 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
@@ -141,7 +141,7 @@
 
 <!--Contact Section-->
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Connect With Me 🤝 </h2>
 <div align="center">
  <a href="https://linkedin.com/in/soumojit-banerjee-4914b3228" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
