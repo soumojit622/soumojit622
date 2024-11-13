@@ -4,15 +4,18 @@
   </picture>
 </p>
 
-<h1 align="center">
-<a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I%27m+Soumojit+Banerjee;Computer+Science+Undergraduate;DS%20|%20Web+Development%20Enthusiast&center=true&width=500&height=50"></a>
-</h1>
+<!-- <h1 align="center">Hi 👋, I'm Soumojit Banerjee</h1> -->
+<!-- <h1 align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Frontend+Developer;DS%20|%20Web+Development%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+</h1> -->
+
+<a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I%27m+Soumojit+Banerjee&center=true&width=500&height=50"></a>
+
 <h3 align="center">Passionate CSE Student 💻 | Exploring the Boundless World of Technology 🌐</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=soumojit622&label=Profile%20views&color=0e75b6&style=flat" alt="soumojit622" /> 
 </p>
-
 
 <table align="center">
   <tr border="none">
@@ -29,7 +32,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -49,7 +51,6 @@
 </table>
 </p>
 
-
 ---
 
 <!--Dynamic Quote card updated everyday at 12 PM-->
@@ -57,7 +58,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+<img src="https://readme-daily-quotes.vercel.app/api?&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=181818&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
@@ -142,7 +143,6 @@
     <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Appwrite.svg" alt="Appwrite backend service" width="50" height="50"/> 
   </a> 
 </p>
-
 
 ---
 
