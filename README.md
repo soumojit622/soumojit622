@@ -60,19 +60,19 @@
   <tr>
     <table width="100%">
   <tr>
-    <td width="60%">
+    <td width="50%">
       <h2 align="center"><strong>Latest Project</strong></h2>
       <p align="center">
         <a href="https://github.com/soumojit622/StoreIt">
-          <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=soumojit622&repo=StoreIt&theme=nightowl&show_owner=true" alt="StoreIt Project" />
+          <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=soumojit622&repo=StoreIt&theme=nightowl&show_owner=true" alt="StoreIt Project" />
         </a>
       </p>
     </td>
-    <td width="40%">
+    <td width="50%">
       <h2 align="center"><strong>Top Contribution</strong></h2>
       <p align="center">
         <a href="https://github.com/soumojit622">
-          <img align="center" width="90%" src="https://github-contributor-stats.vercel.app/api?username=soumojit622&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contribution" />
+          <img align="center" width="80%" src="https://github-contributor-stats.vercel.app/api?username=soumojit622&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contribution" />
         </a>
       </p>
     </td>
