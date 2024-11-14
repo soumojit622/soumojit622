@@ -1,8 +1,6 @@
-<!-- <p align="center">
-  <a href="https://github.com/soumojit622">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumojit622&theme=nightowl" alt="Streak Stats" />
-  </a>
-</p> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&text=Soumojit%20Banerjee&reversal=true&section=header&textBg=false&animation=twinkling"/>
+</p>
 
 
 <p align="center">
