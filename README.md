@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&text=Soumojit%20Banerjee&reversal=true&section=header&textBg=false&animation=twinkling"/>
-</p>
 
 
 <p align="center">
@@ -212,5 +209,5 @@
 
 <!--Footer-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&reversal=true&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=true&section=footer&textBg=false"/>
 </p>
