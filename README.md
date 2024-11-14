@@ -66,9 +66,6 @@
     <td width="50%">
       <h2 align="center"><strong>Latest Project</strong></h2>
       <p align="center">
-        <a href=https://github.com/soumojit622/Klimate-WeatherApp">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=soumojit622&repo=Klimate-WeatherApp&theme=nightowl&show_owner=true" alt="WeatherApp Project" />
-        </a>
         <a href="https://github.com/soumojit622/StoreIt">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=soumojit622&repo=StoreIt&theme=nightowl&show_owner=true" alt="StoreIt Project" />
         </a>
