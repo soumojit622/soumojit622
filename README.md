@@ -48,7 +48,7 @@
 
 <table width="100%">
   <tr>
-    <td width="100%">
+    <td width="50%">
       <h2 align="center"><strong>Github Stats</strong></h2>
       <p align="center">
         <a href="https://github.com/soumojit622">
@@ -56,14 +56,14 @@
         </a>
       </p>
     </td>
-<!--     <td width="50%">
+    <td width="50%">
       <h2 align="center"><strong>Streak Stats</strong></h2>
       <p align="center">
         <a href="https://github.com/soumojit622">
           <img align="center" src="https://streak-stats.demolab.com?user=soumojit622&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
-    </td> -->
+    </td>
   </tr>
   <tr>
     <td width="50%">
