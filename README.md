@@ -1,11 +1,8 @@
-
-
 <p align="center">
   <picture align="center">
-    <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+    <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
   </picture>
 </p>
-
 
 <!-- <h1 align="center">Hi 👋, I'm Soumojit Banerjee</h1> -->
 <!-- <h1 align="center">
@@ -48,23 +45,29 @@
 
 <table width="100%">
   <tr>
-    <td colspan="2" width="100%">
+    <td width="50%">
       <h2 align="center"><strong>Github Stats</strong></h2>
       <p align="center">
         <a href="https://github.com/soumojit622">
-          <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=soumojit622&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumojit622&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h2 align="center"><strong>Streak Stats</strong></h2>
+      <p align="center">
+        <a href="https://github.com/soumojit622">
+          <img align="center" src="https://streak-stats.demolab.com?user=soumojit622&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
-    <table width="100%">
-  <tr>
     <td width="50%">
       <h2 align="center"><strong>Latest Project</strong></h2>
       <p align="center">
         <a href="https://github.com/soumojit622/StoreIt">
-          <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=soumojit622&repo=StoreIt&theme=nightowl&show_owner=true" alt="StoreIt Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=soumojit622&repo=StoreIt&theme=nightowl&show_owner=true" alt="StoreIt Project" />
         </a>
       </p>
     </td>
@@ -72,16 +75,12 @@
       <h2 align="center"><strong>Top Contribution</strong></h2>
       <p align="center">
         <a href="https://github.com/soumojit622">
-          <img align="center" width="80%" src="https://github-contributor-stats.vercel.app/api?username=soumojit622&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contribution" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=soumojit622&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
   </tr>
 </table>
-
-  </tr>
-</table>
-
 <br />
 
 <!--Contribution Graph-->
