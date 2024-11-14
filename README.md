@@ -103,7 +103,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming&bg_color=181818&author_color=ffffff">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
