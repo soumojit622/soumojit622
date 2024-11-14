@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<h3 align="center">Passionate CSE Student 💻 | Exploring the Boundless World of Technology 🌐</h3>
+<h2 align="center">Passionate CSE Student 💻 | Exploring the Boundless World of Technology 🌐</h2>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=soumojit622&label=Profile%20views&color=0e75b6&style=flat" alt="soumojit622" /> 
@@ -46,14 +46,14 @@
 
 ---
 
-<h3 align="center">📊 My Statistics 📊</h3>
+<h2 align="center">📊 My Statistics 📊</h2>
 <!--Github stats Table--> 
 <!-- <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2> -->
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Github Stats</strong></h3>
+      <h2 align="center"><strong>Github Stats</strong></h2>
       <p align="center">
         <a href="https://github.com/soumojit622">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumojit622&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
@@ -61,7 +61,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Streak Stats</strong></h3>
+      <h2 align="center"><strong>Streak Stats</strong></h2>
       <p align="center">
         <a href="https://github.com/soumojit622">
           <img align="center" src="https://streak-stats.demolab.com?user=soumojit622&theme=nightowl" alt="Streak Stats" />
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Latest Project</strong></h3>
+      <h2 align="center"><strong>Latest Project</strong></h2>
       <p align="center">
         <a href="https://github.com/soumojit622/StoreIt">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=soumojit622&repo=StoreIt&theme=nightowl&show_owner=true" alt="StoreIt Project" />
@@ -79,7 +79,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Top Contribution</strong></h3>
+      <h2 align="center"><strong>Top Contribution</strong></h2>
       <p align="center">
         <a href="https://github.com/soumojit622">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=soumojit622&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
@@ -107,7 +107,7 @@
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
-<!-- <h3 align="center">Connect with me:</h3>
+<!-- <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://www.youtube.com/@soumojitbanerjee7273" target="blank">
     <img align="center" src="https://img.icons8.com/fluency/48/000000/youtube-play.png" alt="YouTube" height="50" width="50" />
@@ -131,7 +131,7 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools 🛠️</h3>
+<h2 align="center">🛠️ Languages and Tools 🛠️</h2>
 <p align="center"> 
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-160" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/C.svg" alt="C programming language" width="50" height="50"/> 
