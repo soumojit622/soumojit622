@@ -67,7 +67,7 @@
       <h2 align="center"><strong>Latest Project</strong></h2>
       <p align="center">
         <a href="https://github.com/soumojit622/BrandItUp">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=soumojit622&repo=StoreIt&theme=nightowl&show_owner=true" alt="StoreIt Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=soumojit622&repo=StoreIt&theme=nightowl&show_owner=true" alt="BrandItUp Project" />
         </a>
       </p>
     </td>
