@@ -66,8 +66,8 @@
     <td width="50%">
       <h2 align="center"><strong>Latest Project</strong></h2>
       <p align="center">
-        <a href="https://github.com/soumojit622/BrandItUp">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=soumojit622&repo=BrandItUp&theme=nightowl&show_owner=true" alt="BrandItUp Project" />
+        <a href="https://github.com/soumojit622/Momentum--AI-Career-Coach">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=soumojit622&repo=Momentum--AI-Career-Coach&theme=nightowl&show_owner=true" alt="Momentum--AI-Career-Coach Project" />
         </a>
       </p>
     </td>
