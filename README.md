@@ -180,6 +180,9 @@
   <a href="https://www.appwrite.io" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Appwrite.svg" alt="Appwrite backend service" width="50" height="50"/> 
   </a> 
+  <a href="https://www.appwrite.io" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Vercel-Dark.svg" alt="Vercel" width="50" height="50"/> 
+  </a> 
 </p>
 
 ---
